@@ -1,2 +1,2 @@
 # LisumaPHP
-belajar bahasa pemrograman php di lisuma
+belajar bahasa pemrograman php di lisuma apa aja
